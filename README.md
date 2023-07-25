@@ -5,7 +5,7 @@ https://de.indeed.com/jobs?q=Data+Analyst&l=&from=searchOnHP&vjk=80102e00e3882ad
 # Skills
 ### Knowledge of Microsoft Power BI and how to use Structured Query Language (SQL), Data Analysis Expressions (DAX) and M-Query
 # Experience
-### a. First experiences with ETL (Extract, Transform, Load) processes
+### a. Knowledge of Microsoft Power BI and how to use Structured Query Language (SQL), Data Analysis Expressions (DAX) and M-Query
 b. Practical knowledge of ERP systems and round off your core competencies
 ### yes matches the required skills and some extra skills like power bi 
 
